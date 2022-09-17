@@ -7,5 +7,5 @@ export default class Todo extends Component {
         hello
       </div>
     )
-  }
+  
 }
